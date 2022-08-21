@@ -1,0 +1,20 @@
+环境配置
+sudo apt-get install python3-dev
+sudo apt-get install python3-setuptools
+sudo apt-get install openjdk-7-jdk
+sudo apt-get install python3-pip
+sudo pip3 install --upgrade pip
+sudo pip3 install pdfminer3k
+sudo pip3 install pypdf2
+sudo pip3 install -u nltk
+将SentSearch/tools/PDFExtract.py中的 sys.path.append("/home/py35/PycharmProjects/SentSearch") 更改至当前路径
+
+运行指令
+在SentSearch/tools文件夹执行
+python3 PDFExtract.py [model] src_add dst_add
+model为两种：
+	#model1:debug 会保留所有文档
+        #model:formal 只保留最后切分句子完成的
+src_add为源地址
+dst_add为目标地址
+指令实例： python3 PDFExtract.py 1 /home/py35/Desktop/PDF /home/py35/Desktop/s1

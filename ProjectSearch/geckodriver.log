@@ -1,0 +1,96 @@
+1511948693733	geckodriver	INFO	geckodriver 0.18.0
+1511948693764	geckodriver	INFO	Listening on 127.0.0.1:60438
+1511948695827	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1511948697752	Marionette	INFO	Listening on port 60444
+1511948698019	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+JavaScript error: resource://pdf.js/web/viewer.js, line 6958: Error: Invalid or corrupted PDF file.
+JavaScript error: resource://pdf.js/web/viewer.js, line 6958: Error: An error occurred while loading the PDF.
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+JavaScript error: resource://pdf.js/web/viewer.js, line 6958: Error: Invalid or corrupted PDF file.
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+JavaScript error: resource://pdf.js/web/viewer.js, line 6958: Error: Invalid or corrupted PDF file.
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+JavaScript error: resource://pdf.js/web/viewer.js, line 6958: Error: Invalid or corrupted PDF file.
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+JavaScript error: resource://pdf.js/web/viewer.js, line 6958: Error: An error occurred while loading the PDF.
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+JavaScript error: resource://pdf.js/web/viewer.js, line 6958: Error: Invalid or corrupted PDF file.
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Parent 6984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 5728] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 5728] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AB,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1512003917462	geckodriver	INFO	geckodriver 0.18.0
+1512003917478	geckodriver	INFO	Listening on 127.0.0.1:54836
+1512003919540	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1512003921155	Marionette	INFO	Listening on port 54842
+1512003921693	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3016] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 3016] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345

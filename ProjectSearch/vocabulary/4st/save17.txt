@@ -1,0 +1,12 @@
+hii	Health	18100
+diaspore	水铝石	3330
+irradiation	放射	6310
+ironsmith	铁匠	39
+quadricentennial	400周年纪念的	91
+transplanter	移植者	20
+hii	Health	18100
+diaspore	水铝石	3330
+irradiation	放射	6310
+ironsmith	铁匠	39
+quadricentennial	400周年纪念的	91
+transplanter	移植者	20

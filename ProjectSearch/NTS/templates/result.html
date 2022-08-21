@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<script type="text/javascript">
+function ddd(obj, sType) {
+var oDiv = document.getElementById(obj);
+if (sType == 'show') { oDiv.style.display = 'block';}
+if (sType == 'hide') { oDiv.style.display = 'none';}
+}
+</script>
+<body>
+<form action="/search/" method="get">
+    <table align="center">
+        <tr>
+            <td><input type="text" name="search_content" size="30" style="border-radius: 0px;height:50px;font-size: 30px"></td>
+            <td><input type="submit" value="提交"></td>
+        </tr>
+    </table>
+</form>
+<div class="results-content" style="width:1000px;margin:0 auto;overflow:hidden;" >
+<div style="float:left; width:800px; border-right:1px solid #000;">
+<table border="0">
+{% autoescape off %}
+{% for i in result%}
+    <tr><td>&nbsp;&nbsp;&nbsp;&nbsp;{{ i.highlight }}</td></tr>
+    <tr><td style="font-size:10;color:#ccc">weight:{{ i.weight }}</td></tr>
+	<!-- aa是id的位置 -->
+	
+	<tr><td ><a  onmouseover="ddd('{{ i.id }}', 'show');" onmouseout="ddd('{{ i.id }}', 'hide');" style="font-size:10;color:#ccc">context</a>
+	
+	<div style="display:none;border:1px #000 solid;color:#ccc" id="{{ i.id }}">
+	{{ i.para }}
+	</div>
+	<a href= 'https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q={{i.title}}&oq='>read</a>
+	</td></tr>
+	
+
+	<tr><td>&nbsp;&nbsp</td></tr>
+{% endfor %}
+{% endautoescape %}
+</table>
+<div class="cont" id="cont" style="display:none">
+context
+</div>
+</div>
+
+<div style="float:right; width:150px">
+<!--这里添加右边文字 -->
+segement results:</br>
+{% autoescape off %}
+{{ segemented_results}}
+{% endautoescape %}
+</div>
+
+</div>
+<a href="/prePage/?page={{ page }}&maxpage={{ maxpage }}&search_content={{ search_content }}/">prePage</a>
+<a href="/nextPage/?page={{ page }}&maxpage={{ maxpage }}&search_content={{ search_content }}//">nextPage</a>
+</body>
+</html>
